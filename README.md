@@ -1,0 +1,1 @@
+# gqlgenとsqlcでサンプルapi作る
